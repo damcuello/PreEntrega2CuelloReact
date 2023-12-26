@@ -1,6 +1,4 @@
 # React + Vite
 
 
-
-(https://github.com/damcuello/PreEntrega2CuelloReact/assets/140523125/9d23deeb-a0c2-422e-aea2-93e934aba5bb)
-
+![GIF](https://github.com/damcuello/PreEntrega2CuelloReact/assets/140523125/cd8f723f-02b4-4fe6-ad60-83368228c6a3)
